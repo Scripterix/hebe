@@ -1,6 +1,7 @@
 # ReceipesApp
 
 This project is in progress @Scripterx
+The App for Health and Beauty Receipes 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
